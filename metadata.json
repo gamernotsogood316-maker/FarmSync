@@ -1,0 +1,7 @@
+{
+  "name": "FarmSync",
+  "description": "Direct agrarian marketplace connecting Indian farmers to city retailers with 0% dalali, on-demand farm truck transport, real-time Google Maps GPS tracking, driver load board, Google Translate, and Google Cloud Firestore database.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
